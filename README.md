@@ -8,13 +8,6 @@ Este repositório contém uma página estática em HTML que apresenta os conceit
 ## Como usar
 1. Clona o repositório.
 2. Abre o ficheiro `index.html` diretamente no navegador, ou serve a pasta com um pequeno servidor local.
-3. Exemplo de servidor local:
-
-```bash
-python -m http.server 8000
-```
-
-Depois, visita `http://localhost:8000`.
 
 ## Estrutura do projeto
 - `index.html` — página principal com a apresentação do tema.
